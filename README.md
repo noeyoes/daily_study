@@ -1,7 +1,7 @@
 #### 매일 다섯문제씩 복습하는 Python and C 🍀
 
 ##### 📌 PLAN 
-|Date|seoyeon|seojin|
+|Date|seoyeon|seojining|
 |:------:|:---:|:---:|
 |08.22| ✅|✅ |
 |08.23| | |
