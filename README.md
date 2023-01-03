@@ -1,11 +1,7 @@
 #### 매일 다섯문제씩 복습하는 Python and C 🍀
 
-##### 📌 CHECK LIST
-|Date|seoyeon|seojining|
-|:---:|:---:|:---:|
-|08.22|✅|✅|
-|08.23|✅|✅|
-|08.24|✅|✅|
-|08.25|✅|✅|
-|08.26|🫥|✅|
-|08.29|✅|✅|
+##### 📍 PARTICIPANT
+|name|github|
+|:---:|:---:|
+|seoyeon|https://github.com/noeyoes|
+|seojin|https://github.com/eoxing|
